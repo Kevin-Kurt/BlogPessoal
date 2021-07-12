@@ -1,0 +1,20 @@
+.bg{
+    background-color: #b6b6b6;
+background-image: url("http://www.w3.org/2000/svg");
+}
+.btnNova{
+    background-color: 	#120a8f;
+    ;
+    color: aliceblue;
+}
+.btn-outline-info:hover{
+    background-color: 	#120a8f;
+    color: aliceblue;
+    
+}
+.btn-outline-info{
+    
+    border-color: #120a8f;
+    color: #120a8f;
+}
+

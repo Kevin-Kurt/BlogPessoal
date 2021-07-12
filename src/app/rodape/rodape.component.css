@@ -1,0 +1,36 @@
+ul.social-network{
+	list-style: none;
+	padding: 0;
+}
+
+ul.social-network li{
+	display: inline;
+	margin: 0;
+	padding: 5px;
+}
+
+.fa{
+	font-size: 35pt;
+	color: white;
+}
+
+.fa-linkedin-square:hover{
+	color: #0e76a8;
+}
+
+.fa-instagram:hover{
+	background: -webkit-linear-gradient(0deg, rgba(217,132,66,1) 0%, rgba(198,68,83,1) 24%, rgba(197,57,92,1) 55%, rgba(169,28,141,1) 79%, rgba(118,35,190,1) 100%);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+
+.fa-github:hover{
+	color: rgb(0, 0, 0);
+}
+.bg{
+	background-color: #120a8f;
+}
+
+.bg2{
+	background-color: rgb(0, 0, 0);
+}

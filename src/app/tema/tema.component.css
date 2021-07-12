@@ -1,0 +1,24 @@
+.bg{
+    background-color: #b6b6b6;
+
+}
+.btn-o:hover{
+    background-color: 	#120a8f;
+    color: aliceblue;
+    
+}
+.btn-o{
+    
+    border-color: #120a8f;
+    color: #120a8f;
+}
+.btn-info:hover{
+    background-color: 	#120a8f;
+    color: aliceblue;
+    
+}
+.btn-info{
+    background-color: 	#120a8f;
+    color: aliceblue;
+    
+}

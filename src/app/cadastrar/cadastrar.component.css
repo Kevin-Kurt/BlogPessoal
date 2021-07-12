@@ -1,0 +1,21 @@
+#img-bg{
+	background-image: url('https://cdn.leroymerlin.com.br/products/mesa_de_escritorio_em_l_estilo_industrial_1,50x1,50m_kuadra_1567104280_45d0_600x600.jpg');
+
+	min-height: 695px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.btn-o:hover{
+	
+	background-color: 	#120a8f;
+	color: aliceblue;
+	
+}
+
+.btn-o{
+
+border-color: #120a8f;
+color: #120a8f;
+
+}
